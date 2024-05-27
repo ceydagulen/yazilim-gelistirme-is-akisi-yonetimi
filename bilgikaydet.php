@@ -38,7 +38,7 @@ if (!$cevap) {
     echo '<div class="alert alert-success" role="alert">';
     echo 'Veritabanına eklendi.';
     echo '</div>';
-    echo '<a href="anasayfa.php" class="btn btn-primary">Geri Dön</a>';
+    echo '<a href="index.php" class="btn btn-primary">Geri Dön</a>';
 }
 
 echo "</div>";
