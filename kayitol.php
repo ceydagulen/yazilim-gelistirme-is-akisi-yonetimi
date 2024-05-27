@@ -59,8 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </div>
     </div>
 
-    <!-- Bootstrap JS and dependencies -->
-    <script src="js/bootstrap.min.js"></script>
+
   
 </body>
 </html>
