@@ -7,13 +7,13 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <style>
         .btn-lilac {
-            background-color: #C8A2C8; /* Lila rengi */
-            border-color: #C8A2C8; /* Buton kenar rengini de lila yapar */
-            color: white; /* Yazı rengini beyaz yapar */
+            background-color: #C8A2C8; 
+            border-color: #C8A2C8; 
+            color: white; 
         }
         .btn-lilac:hover {
-            background-color: #B190B1; /* Hover durumunda butonun rengi */
-            border-color: #B190B1; /* Hover durumunda buton kenar rengi */
+            background-color: #B190B1; 
+            border-color: #B190B1; 
         }
     </style>
 </head>
@@ -61,7 +61,6 @@
     </div>
 </div>
 
-<!-- Bootstrap JS -->
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
