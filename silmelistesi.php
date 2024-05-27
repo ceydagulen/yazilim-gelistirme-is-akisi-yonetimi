@@ -55,7 +55,7 @@ if (!$cevap) {
             ?>
         </tbody>
     </table>
-    <a href="anasayfa.php" class="btn btn-primary">Geri Dön</a>
+    <a href="index.php" class="btn btn-primary">Geri Dön</a>
 </div>
 
 <?php
