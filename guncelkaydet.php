@@ -41,7 +41,7 @@ if (isset($_POST['kullaniciadi']) && isset($_POST['eposta']) && isset($_POST['si
         echo '</div>';
     }
 
-    echo "<a href='anasayfa.php' class='btn btn-primary'>Geri Dön</a>";
+    echo "<a href='index.php' class='btn btn-primary'>Geri Dön</a>";
     echo "</div>";
     echo "</div>";
     echo "</div>";
@@ -66,7 +66,7 @@ if (isset($_POST['kullaniciadi']) && isset($_POST['eposta']) && isset($_POST['si
     echo "<div class='alert alert-danger' role='alert'>";
     echo "Geçersiz istek. Lütfen tüm alanları doldurun.";
     echo "</div>";
-    echo "<a href='anasayfa.php' class='btn btn-primary'>Geri Dön</a>";
+    echo "<a href='index.php' class='btn btn-primary'>Geri Dön</a>";
     echo "</div>";
 
     echo "</body>";
