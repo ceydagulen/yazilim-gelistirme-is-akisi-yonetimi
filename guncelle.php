@@ -58,7 +58,7 @@ if (isset($_GET['id']) && is_numeric($_GET['id'])) {
             <button type="submit" class="btn btn-primary">KAYDET</button>
         </form>
         <br>
-        <a href="anasayfa.php" class="btn btn-secondary">Geri Dön</a>
+        <a href="index.php" class="btn btn-secondary">Geri Dön</a>
     </div>
 
 
