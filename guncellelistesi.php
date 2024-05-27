@@ -51,7 +51,7 @@
  // Tablo kodunu bitirelim
  echo "</tbody>";
  echo "</table>";
- echo "<br/><a href='anasayfa.php' class='btn btn-primary'>Geri Dön</a>";
+ echo "<br/><a href='index.php' class='btn btn-primary'>Geri Dön</a>";
  echo "</div>";
  echo "</body>";
  echo "</html>";
