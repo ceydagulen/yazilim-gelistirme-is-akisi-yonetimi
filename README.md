@@ -23,13 +23,6 @@ Kullanıcı Yönetimi
 Tüm kullanıcılarınızı ve rollerini merkezi bir panel üzerinden yönetin.
 
 
-Proje açıklamasını daha kullanıcı dostu ve görsel olarak çekici hale getirebilmek için aşağıdaki gibi bir düzenleme yapabilirsiniz:
-
-Yazılım Geliştirme Ekibi İş Akışı Yönetimi
-Bu proje, yazılım geliştirme ekiplerinin iş süreçlerini daha verimli bir şekilde yönetmelerine yardımcı olan bir İş Akışı Yönetim Sistemi sunar. Proje, özellikle görev atama, proje yönetimi ve test yönetimi gibi kritik süreçlerde ekiplerin etkinliğini artırmayı hedefler.
-
-
-
 
 
 💻 Teknolojiler
