@@ -7,19 +7,19 @@ Bu proje, yazılım geliştirme ekiplerinin iş süreçlerini daha verimli bir �
 
 🛠️ Özellikler
 
-Görev Atama
+Görev Atama:
 Kullanıcılara kolayca görevler atayın ve görevlerin durumunu hızlıca takip edin.
 
 
-Proje Yönetimi
+Proje Yönetimi:
 Projelerinizi bölümlere ayırarak her aşamayı detaylı bir şekilde yönetin.
 
 
-Test Yönetimi
+Test Yönetimi:
 Geliştirme aşamasında yapılan testlerin durumunu izleyin ve analiz edin.
 
 
-Kullanıcı Yönetimi
+Kullanıcı Yönetimi:
 Tüm kullanıcılarınızı ve rollerini merkezi bir panel üzerinden yönetin.
 
 
